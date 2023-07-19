@@ -9,3 +9,12 @@ h1 {
   font-family: "Copperplate Papyrus", fantasy;
   text-align: center;
 }
+
+.space {
+  padding: 20px;
+}
+
+.imagelink {
+  width: 25px;
+  height: auto;
+}
