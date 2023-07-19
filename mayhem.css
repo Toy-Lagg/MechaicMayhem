@@ -4,17 +4,17 @@ h1 {
   text-align: center;
 }
 
-.titledesc {
+#titledesc {
   font-size: 60px;
   font-family: "Copperplate Papyrus", fantasy;
   text-align: center;
 }
 
-.space {
+#space {
   padding: 20px;
 }
 
-.imagelink {
+#imagelink {
   width: 25px;
   height: auto;
 }
