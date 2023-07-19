@@ -18,3 +18,9 @@ h1 {
   width: 25px;
   height: auto;
 }
+
+a {
+  font-size: 50px;
+  font-family: "Copperplate Papyrus", fantasy;
+  text-align: center;
+}
